@@ -1,0 +1,164 @@
+div.wrapper > div.story {
+  width: 100%;
+  height: 150px;
+  text-align: center;
+  padding-top: 20px;
+}
+div.wrapper > div.story > div.click{
+  width: 100px;
+  height: 100px;
+  border: 3px solid #ed1b34;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 35px;
+  border-radius: 100%;
+}
+div.wrapper > div.story > div.click > a > img {
+  margin-top: 2px;
+  border-radius: 100%;
+  width: 90px;
+}
+div.wrapper > div.story > div.click> a > p {
+  margin-top: 7px;
+  color: black;
+  font-weight: 600;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+div.wrapper > div.story > div.click:hover {
+  border: 3px solid lightgray;
+}
+
+/*endstory*/
+/*startstory02*/
+div.wrapper > div.story02 {
+  width: 100%;
+  height: 160px;
+  text-align: center;
+}
+div.wrapper > div.story02 > div.icon {
+  display: inline-block;
+  vertical-align: top;
+  width: 100px;
+  height: 100px;
+  background-color: #f0f0f1;
+  border-radius: 100%;
+}
+div.wrapper > div.story02 > div.icon > a {
+  margin-top: 2px;
+  width: 90px;
+}
+div.wrapper > div.story02 > div {
+  display: inline-block;
+  vertical-align: top;
+  width: 100px;
+  height: 80px;
+  margin: 35px 35px;
+}
+div.wrapper > div.story02 > div > a > img {
+  margin-top: 2px;
+  border-radius: 100%;
+  width: 90px;
+}
+div.wrapper > div.story02 > div > a > p {
+  margin-top: 10px;
+  color: #3f4064;
+  font-weight: 600;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+div.wrapper > div.story02 > div:nth-of-type(5) > a > img,
+div.wrapper > div.story02 > div:nth-of-type(6) > a > img,
+div.wrapper > div.story02 > div:nth-of-type(7) > a > img,
+div.wrapper > div.story02 > div:nth-of-type(8) > a > img {
+  margin-top: 2px;
+  border-radius: 10%;
+  width: 90px;
+}
+div.wrapper > div.story02 > div.icon > div {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: #a1a3a8;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 45px;
+  margin-bottom: 40px;
+}
+/**/
+div.wrapper > div.story03 {
+  width: 100%;
+  height: 400px;
+  text-align: center;
+}
+div.wrapper > div.story03 > p {
+  font-size: 30px;
+  padding-top: 30px;
+  padding-right: 35px;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+div.wrapper > div.story03 > div.story {
+  width: 100%;
+  height: 170px;
+}
+div.wrapper > div.story03 > div.story > div:nth-of-type(1),
+div.wrapper > div.story03 > div.story > div:nth-of-type(2),
+div.wrapper > div.story03 > div.story > div:nth-of-type(3),
+div.wrapper > div.story03 > div.story > div:nth-of-type(4),
+div.wrapper > div.story03 > div.story > div:nth-of-type(5),
+div.wrapper > div.story03 > div.story > div:nth-of-type(6),
+div.wrapper > div.story03 > div.story > div:nth-of-type(7) {
+  width: 145px;
+  height: 145px;
+  border-radius: 100%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 30px 25px 30px 35px;
+}
+div.wrapper > div.story03 > div.story > div > a > img {
+  width: 110px;
+  height: 110px;
+  margin-right: 10px;
+}
+div.wrapper > div.story03 > div.story > div > a > p {
+  font-size: 16px;
+  color: black;
+  font-weight: 600;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+div.wrapper > div.story03 > div.story2 {
+  width: 100%;
+  height: 190px;
+  padding-left: 100px;
+}
+div.wrapper > div.story03 > div.story2 > div:nth-of-type(1),
+div.wrapper > div.story03 > div.story2 > div:nth-of-type(2),
+div.wrapper > div.story03 > div.story2 > div:nth-of-type(3),
+div.wrapper > div.story03 > div.story2 > div:nth-of-type(4),
+div.wrapper > div.story03 > div.story2 > div:nth-of-type(5),
+div.wrapper > div.story03 > div.story2 > div:nth-of-type(6) {
+  width: 145px;
+  height: 145px;
+  border-radius: 100%;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 40px;
+  margin-right: 70px;
+}
+div.wrapper > div.story03 > div.story2 > div > a > img {
+  width: 120px;
+  height: 120px;
+  margin-right: 15px;
+}
+div.wrapper > div.story03 > div.story2 > div > a {
+  width: 100%;
+}
+div.wrapper > div.story03 > div.story2 > div > a > p {
+  font-size: 16px;
+  color: black;
+  font-weight: 600;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

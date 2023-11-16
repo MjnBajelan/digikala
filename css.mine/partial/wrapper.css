@@ -1,0 +1,201 @@
+div.wrapper {
+  width: 100%;
+}
+div.wrapper > div.line {
+  width: 100%;
+  height: 1px;
+  background-color: lightgray;
+  margin-top: 20px;
+}
+div.wrapper > div.line02 {
+  width: 92%;
+  height: 1px;
+  background-color: lightgray;
+  margin-top: 25px;
+  margin-left: 90px;
+}
+div.wrapper > div.line03 {
+  width: 92%;
+  height: 1px;
+  background-color: rgb(238, 238, 238);
+  margin-top: 45px;
+  margin-left: 90px;
+}
+
+div.wrapper > h6 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 600px;
+  margin-top: 40px;
+  color: #81858b;
+}
+
+div.wrapper > div.sh {
+  width: 50px;
+  height: 65px;
+  position: fixed;
+  bottom: 20px;
+  left: 40px;
+  z-index: 100;
+}
+div.wrapper > div.sh > div.shenavar {
+  width: 50px;
+  height: 50px;
+  background-color: #ed1c35;
+  border-radius: 100%;
+  position: relative;
+  z-index: 100;
+  top: 15px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+*********************************************************************
+  div.wrapper
+  > div.sh
+  > div.shenavar
+  > i {
+  font-size: 22px;
+  color: white;
+}
+/**/
+div.wrapper > div.sh > div.shenavar > div.d01 {
+  width: 360px;
+  height: 730px;
+  position: absolute;
+  bottom: 200px;
+  border-radius: 20px;
+  bottom: 20px;
+  display: none;
+  background-color: white;
+  z-index: 200;
+}
+div.wrapper > div.sh:hover > div.shenavar > div {
+  display: block;
+}
+div.wrapper > div.sh > div.shenavar > div {
+  width: 360px;
+  height: 630px;
+  position: absolute;
+  bottom: 200px;
+  border-radius: 20px;
+  bottom: 60px;
+  display: none;
+  background-color: white;
+  z-index: 200;
+}
+div.wrapper > div.sh > div.shenavar > div > div.up {
+  width: inherit;
+  height: 60px;
+  background-color: #ed1c35;
+  border-radius: 20px 20px 0 0;
+}
+div.wrapper > div.sh > div.shenavar > div > div.up > i {
+  color: white;
+  margin-top: 22px;
+  margin-left: 30px;
+  font-size: 20px;
+}
+div.wrapper > div.sh > div.shenavar > div > div.up > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 50px;
+  color: white;
+  font-size: 20px;
+  position: relative;
+  bottom: 30px;
+  padding-left: 170px;
+}
+
+div.wrapper > div.sh > div.shenavar > div > div.up > div {
+  height: 120px;
+  width: inherit;
+}
+div.wrapper > div.sh > div.shenavar > div > div.up > div > p:nth-of-type(1) {
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  direction: rtl;
+  text-align: right;
+  font-weight: 600;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+div.wrapper > div.sh > div.shenavar > div > div.up > div > p:nth-of-type(2) {
+  font-size: 14px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  direction: rtl;
+  text-align: right;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+div.wrapper > div.sh > div.shenavar > div > div.up > div > p:nth-of-type(3) {
+  font-size: 14px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  direction: rtl;
+  text-align: right;
+  margin-right: 10px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+div.wrapper > div.sh > div.shenavar > div > div.up > div > p:nth-of-type(4) {
+  font-size: 14px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  direction: rtl;
+  text-align: right;
+  margin-right: 10px;
+  font-weight: 600;
+}
+
+div.wrapper > div.sh > div.shenavar > div > div.up > div.box {
+  width: 320px;
+  height: 120px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+div.wrapper > div.sh > div.shenavar > div > div.up > div.box:nth-of-type(2),
+div.wrapper > div.sh > div.shenavar > div > div.up > div.box:nth-of-type(3) {
+  width: 320px;
+  height: 60px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+div.wrapper > div.sh > div.shenavar > div > div.up > div.box > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  direction: rtl;
+  text-align: right;
+  margin-right: 10px;
+  font-size: 14px;
+  padding-top: 10px;
+}
+div.wrapper > div.sh > div.shenavar > div > div.question > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  direction: rtl;
+  text-align: center;
+  margin-right: 10px;
+  margin-top: 450px;
+  font-size: 14px;
+  padding-top: 10px;
+}
+div.wrapper > div.sh > div.shenavar > div > div.question > a > p {
+  width: 200px;
+  height: 50px;
+  background-color: rgb(0, 194, 194);
+  border-radius: 40px;
+  margin-top: 15px;
+  margin-left: 70px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  direction: rtl;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  padding-top: 15px;
+  color: white;
+}
+
+div.wrapper > div.sh > div.shenavar > div > div.question > a > p > i {
+  margin-right: 10px;
+}

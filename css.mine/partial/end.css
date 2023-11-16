@@ -1,0 +1,101 @@
+div.wrapper > div.end {
+  width: 100%;
+  height: 180px;
+  margin-top: 40px;
+  background-color: #f0f0f1;
+}
+div.wrapper > div.end > div.up {
+  width: 100%;
+  height: 90px;
+  text-align: center;
+}
+div.wrapper > div.end > div.up > div {
+  width: 200px;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  border-left: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+  padding-top: 30px;
+}
+div.wrapper > div.end > div.up > div:nth-of-type(1) {
+  border-left: 0;
+}
+div.wrapper > div.end > div.up > div > img {
+  padding-left: 50px;
+}
+div.wrapper > div.end > div.up > div:nth-of-type(1) > a > img {
+  width: 160px;
+  height: inherit;
+}
+div.wrapper > div.end > div.up > div:nth-of-type(2) > a > img {
+  width: 120px;
+  height: inherit;
+}
+div.wrapper > div.end > div.up > div:nth-of-type(3) > a > img {
+  width: 120px;
+  height: inherit;
+}
+div.wrapper > div.end > div.up > div:nth-of-type(4) > a > img {
+  width: 120px;
+  height: inherit;
+}
+div.wrapper > div.end > div.up > div:nth-of-type(5) > a > img {
+  width: 120px;
+  height: inherit;
+}
+div.wrapper > div.end > div.up > div:nth-of-type(6) > a > img {
+  width: 160px;
+  height: inherit;
+}
+div.wrapper > div.end > div.up > div:nth-of-type(7) > a > img {
+  width: 120px;
+  height: inherit;
+}
+div.wrapper > div.end > div.up > div:nth-of-type(8) > a > img {
+  width: 160px;
+  height: inherit;
+}
+/**/
+div.wrapper > div.end > div.down {
+  width: 100%;
+  height: 90px;
+  text-align: center;
+}
+div.wrapper > div.end > div.down > div {
+  width: 200px;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  border-left: 1px solid lightgrey;
+  padding-top: 30px;
+}
+div.wrapper > div.end > div.down > div:nth-of-type(1) > a > img {
+  width: 160px;
+  height: inherit;
+}
+div.wrapper > div.end > div.down > div:nth-of-type(2) > a > img {
+  width: 120px;
+  height: inherit;
+}
+div.wrapper > div.end > div.down > div:nth-of-type(3) > a > img {
+  width: 120px;
+  height: inherit;
+}
+div.wrapper > div.end > div.down > div:nth-of-type(4) > a > img {
+  width: 120px;
+  height: inherit;
+}
+div.wrapper > div.end > div.down > div:nth-of-type(5) > a > img {
+  width: 120px;
+  height: inherit;
+}
+div.wrapper > div.end > div.down > div:nth-of-type(6) > a > img {
+  width: 160px;
+  height: inherit;
+}
+div.wrapper > div.end > div.down > div:nth-of-type(7) > a > img {
+  width: 120px;
+  height: inherit;
+}
+/**/

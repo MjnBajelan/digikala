@@ -1,0 +1,8587 @@
+div.wrapper > div.menu {
+  width: 100%;
+  height: 40px;
+  margin-top: 27px;
+  border-bottom: 1px solid lightgray;
+}
+div.wrapper > div.menu > div:nth-of-type(1) {
+  width: 20%;
+  height: 20px;
+  text-align: center;
+  padding-left: 110px;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrapper > div.menu > div:nth-of-type(1) > a {
+  width: 250px;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  padding-right: 25px;
+}
+div.wrapper > div.menu > div:nth-of-type(1) > a > p {
+  width: 70%;
+  height: 60px;
+  font-size: 13px;
+  padding-top: 2px;
+  display: inline-block;
+  vertical-align: top;
+  color: gray;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+div.wrapper > div.menu > div:nth-of-type(1) > a > i {
+  width: 10%;
+  height: 60px;
+  padding-top: 2px;
+  display: inline-block;
+  vertical-align: top;
+  color: gray;
+}
+/**/
+div.wrapper > div.menu > div:nth-of-type(2) {
+  width: 58%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 390px;
+  transition: all 2500ms linear;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div {
+  width: 120px;
+  height: 20px;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div:nth-of-type(1)
+  > a
+  > div.line {
+  width: 0%;
+  height: 2px;
+  background-color: red;
+  margin-top: 17px;
+  direction: ltr;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div:nth-of-type(1):hover
+  > a
+  > div.line {
+  width: 100%;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div:nth-of-type(2)
+  > a
+  > div.line {
+  width: 0%;
+  height: 2px;
+  background-color: red;
+  margin-top: 17px;
+  direction: ltr;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div:nth-of-type(2):hover
+  > a
+  > div.line {
+  width: 100%;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div:nth-of-type(3)
+  > a
+  > div.line {
+  width: 0%;
+  height: 2px;
+  background-color: red;
+  margin-top: 17px;
+  direction: ltr;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div:nth-of-type(3):hover
+  > a
+  > div.line {
+  width: 100%;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div:nth-of-type(4)
+  > a
+  > div.line {
+  width: 0%;
+  height: 2px;
+  background-color: red;
+  margin-top: 17px;
+  direction: ltr;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div:nth-of-type(4):hover
+  > a
+  > div.line {
+  width: 100%;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div:nth-of-type(5)
+  > a
+  > div.line {
+  width: 0%;
+  height: 2px;
+  background-color: red;
+  margin-top: 17px;
+  direction: ltr;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div:nth-of-type(5):hover
+  > a
+  > div.line {
+  width: 100%;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div:nth-of-type(6)
+  > a
+  > div.line {
+  width: 0%;
+  height: 2px;
+  background-color: red;
+  margin-top: 17px;
+  direction: ltr;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div:nth-of-type(6):hover
+  > a
+  > div.line {
+  width: 100%;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div:nth-of-type(7)
+  > a
+  > div.line {
+  width: 0%;
+  height: 2px;
+  background-color: red;
+  margin-top: 17px;
+  direction: ltr;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div:nth-of-type(7):hover
+  > a
+  > div.line {
+  width: 100%;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div > a {
+  width: 130px;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  padding-top: 2px;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div > a > p {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 13px;
+  color: gray;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div:nth-of-type(3) {
+  width: 155px;
+  border-left: 1px solid lightgrey;
+  padding-left: 10px;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div:nth-of-type(3) > a > p {
+  width: 155px;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div:nth-of-type(3) > a > p > i {
+  margin-left: 5px;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div:nth-of-type(4) > a > p > i {
+  margin-left: 5px;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div:nth-of-type(5) > a > p > i {
+  margin-left: 5px;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div:nth-of-type(6) > a > p > i {
+  margin-left: 5px;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div:nth-of-type(7) > a > p > i {
+  margin-left: 5px;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div:nth-of-type(5) {
+  width: 110px;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div:nth-of-type(6) {
+  width: 125px;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div.menuu {
+  border-left: 1px solid lightgray;
+  width: 140px;
+  padding-left: 20px;
+  position: relative;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div.menuu > p > i {
+  margin-left: 4px;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div.menuu > div.line {
+  width: 0%;
+  height: 2px;
+  background-color: white;
+  margin-top: 17px;
+  direction: ltr;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div.menuu:hover > div.line {
+  width: 100%;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div.menuu > p {
+  font-weight: 600;
+  font-size: 14px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  height: 40px;
+}
+/*submenu*/
+
+div.wrapper > div.menu > div:nth-of-type(2) > div.menuu > div {
+  width: 1100px;
+  height: 600px;
+  background-color: white;
+  position: absolute;
+  right: 1px;
+  z-index: 50;
+  top: 40px;
+  display: none;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div.menuu:hover > div {
+  display: block;
+}
+div.wrapper > div.menu > div:nth-of-type(2) > div.menuu > div > div.right {
+  width: 200px;
+  height: inherit;
+  background-color: rgb(240, 240, 240);
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav {
+  width: 279px;
+  height: inherit;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul {
+  width: 100px;
+  height: inherit;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li {
+  width: 200px;
+  height: 50px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: right;
+  padding-right: 5px;
+  position: relative;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li:hover {
+  background-color: whitesmoke;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(51, 51, 51);
+  font-size: 13px;
+  padding-top: 7px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > a
+  > p
+  > i {
+  padding-left: 10px;
+}
+/**/
+div.wrapper
+> div.menu
+> div:nth-of-type(2)
+> div.menuu
+> div
+> div.right
+> nav
+> ul
+> li
+> div.left> div:nth-of-type(1)
+> ul
+> li:nth-of-type(1)>a>div.line{
+  width: 20px;
+  height: 30px;
+  background-color: red;
+  display: inline-block;
+  vertical-align: top;
+}    
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left {
+  width: 900px;
+  height: 600px;
+  margin-right: 200px;
+  position: absolute;
+  right: 1px;
+  margin-bottom: 20px;
+  top: -5px;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: rgb(5, 197, 197);
+  font-weight: 600;
+  padding-top: 10px;
+  padding-right: 30px;
+  margin-bottom: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > a
+  > p
+  > i {
+  padding-right: 10xp;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div {
+  width: 222px;
+  height: 553px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div
+  > nav {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div
+  > ul {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div
+  > ul
+  > li {
+  width: 216px;
+  height: 19px;
+  text-align: right;
+  margin: 20px 0;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div
+  > ul
+  > li:nth-of-type(1){
+width: 212px;
+    border-right: 2px solid red;
+  }
+  div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(7){
+width: 212px;
+    border-right: 2px solid red;
+  }
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div
+  > ul
+  > li:hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(7):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+  padding-right: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: #62666d;
+}
+/**/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(7)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+  padding-right: 10px;
+}
+/*کالای دیجیتال*/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li:nth-of-type(2):hover
+  > div.left02 {
+  display: block;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02 {
+  width: 900px;
+  height: 590px;
+  margin-right: 200px;
+  position: absolute;
+  right: 1px;
+  top: -50px;
+  background-color: white;
+  display: none;
+  overflow-y: scroll;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: rgb(5, 197, 197);
+  font-weight: 600;
+  padding-top: 10px;
+  padding-right: 12px;
+  margin-bottom: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > a
+  > p
+  > i {
+  padding-right: 10xp;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div {
+  width: 217px;
+  height: 553px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div
+  > nav {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div
+  > ul {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div
+  > ul
+  > li {
+  width: 216px;
+  height: 35px;
+  text-align: right;
+  margin: 1px 0;
+  padding-right: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1)
+  > hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(2):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(3):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(4):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(5):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(6):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(7):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(5):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(10):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(11):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(12):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(2):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(3):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(4):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(9):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(10):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(11):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(4)
+  > ul
+  > li:hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(8):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(13):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(19):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(23):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(24):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div
+  > ul
+  > li:hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(2)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(3)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(4)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(5)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(6)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(7)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: #62666d;
+  padding-top: 10px;
+}
+/**/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(5)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(10)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(11)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(12)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+/**/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(2)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(3)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(4)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(9)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(10)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(11)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+/**/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(8)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(13)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(19)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(23)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left02
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(24)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+/*خانه و اشپزخانه*/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li:nth-of-type(3):hover
+  > div.left03 {
+  display: block;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03 {
+  width: 900px;
+  height: 600px;
+  margin-right: 200px;
+  position: absolute;
+  right: 1px;
+  margin-bottom: 20px;
+  top: -100px;
+  display: none;
+  background-color: white;
+  overflow-y: scroll;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: rgb(5, 197, 197);
+  font-weight: 600;
+  padding-top: 10px;
+  padding-right: 12px;
+  margin-bottom: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > a
+  > p
+  > i {
+  padding-right: 10xp;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div {
+  width: 217px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div
+  > nav {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div
+  > ul {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div
+  > ul
+  > li {
+  width: 216px;
+  height: 30px;
+  text-align: right;
+  padding-right: 10px;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div
+  > ul
+  > li:hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(4)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(4):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(6)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(6):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(7)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(7):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(8)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(8):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(9)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(9):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(10)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(10):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(11)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(11):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(13)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(13):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(17)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(17):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: #62666d;
+  padding-top: 10px;
+}
+/**/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(6)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(6):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(9)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(9):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: red;
+  padding-top: 10px;
+}
+/**/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(2)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(2):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(16)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(16):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: red;
+  padding-top: 10px;
+}
+/**/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: red;
+  padding-top: 10px;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(8)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(8):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(13)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(13):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(19)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(19):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(24)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(24):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: red;
+  padding-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(25)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left03
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(25):hover
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: red;
+  padding-top: 10px;
+}
+/*مد و پوشاک*/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li:nth-of-type(4):hover
+  > div.left04 {
+  display: block;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04 {
+  width: 900px;
+  height: 600px;
+  margin-right: 200px;
+  position: absolute;
+  right: 1px;
+  margin-bottom: 20px;
+  top: -150px;
+  display: none;
+  background-color: white;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: rgb(5, 197, 197);
+  font-weight: 600;
+  padding-top: 10px;
+  padding-right: 12px;
+  margin-bottom: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > a
+  > p
+  > i {
+  padding-right: 10xp;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div {
+  width: 220px;
+  height: 558px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div
+  > nav {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div
+  > ul {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div
+  > ul
+  > li {
+  width: 216px;
+  height: 35px;
+  text-align: right;
+  margin: 1px 0;
+  padding-right: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div
+  > ul
+  > li:hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(1)
+  > ul
+  > li:hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: #62666d;
+  padding-top: 10px;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(1)
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+/**/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(5)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(5):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(10)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(10):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(11)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(11):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(12)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(12):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(13)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(13):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(14)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(14):hover
+  > a
+  > p {
+  color: red;
+}
+/**/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(2)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(2):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(8)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(8):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(11)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(11):hover
+  > a
+  > p {
+  color: red;
+}
+/**/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(2)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(2):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(7)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(7):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(9)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left04
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(9):hover
+  > a
+  > p {
+  color: red;
+}
+/*سوپرمارکتی*/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li:nth-of-type(5):hover
+  > div.left05 {
+  display: block;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05 {
+  width: 900px;
+  height: 600px;
+  margin-right: 200px;
+  position: absolute;
+  right: 1px;
+  margin-bottom: 20px;
+  top: -200px;
+  display: none;
+  background-color: white;
+  overflow-y: scroll;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: rgb(5, 197, 197);
+  font-weight: 600;
+  padding-top: 10px;
+  padding-right: 12px;
+  margin-bottom: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > a
+  > p
+  > i {
+  padding-right: 10xp;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div {
+  width: 217px;
+  height: 558px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div
+  > nav {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div
+  > ul {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div
+  > ul
+  > li {
+  width: 216px;
+  height: 35px;
+  text-align: right;
+  margin: 1px 0;
+  padding-right: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div
+  > ul
+  > li:hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: #62666d;
+  padding-top: 10px;
+}
+/**/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(6):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(6)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(9):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(9)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(10):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(10)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(11):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(11)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(10):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(10)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(14):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left05
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(14)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+/*کتاب*/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li:nth-of-type(6):hover
+  > div.left06 {
+  display: block;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06 {
+  width: 900px;
+  height: 600px;
+  margin-right: 200px;
+  position: absolute;
+  right: 1px;
+  margin-bottom: 20px;
+  top: -250px;
+  display: none;
+  background-color: white;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: rgb(5, 197, 197);
+  font-weight: 600;
+  padding-top: 10px;
+  padding-right: 12px;
+  margin-bottom: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > a
+  > p
+  > i {
+  padding-right: 10xp;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div {
+  width: 217px;
+  height: 558px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div
+  > nav {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div
+  > ul {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div
+  > ul
+  > li {
+  width: 216px;
+  height: 35px;
+  text-align: right;
+  margin: 1px 0;
+  padding-right: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div
+  > ul
+  > li:hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(4)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(4):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(5)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(5):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(10)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(10):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(11)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(11):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(12)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(12):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left06
+  > div
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: #62666d;
+  padding-top: 10px;
+}
+/*نوزاد*/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li:nth-of-type(7):hover
+  > div.left07 {
+  display: block;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07 {
+  width: 900px;
+  height: 600px;
+  margin-right: 200px;
+  position: absolute;
+  right: 1px;
+  margin-bottom: 20px;
+  top: -300px;
+  display: none;
+  background-color: white;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: rgb(5, 197, 197);
+  font-weight: 600;
+  padding-top: 10px;
+  padding-right: 12px;
+  margin-bottom: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > a
+  > p
+  > i {
+  padding-right: 10xp;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div {
+  width: 217px;
+  height: 558px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div
+  > nav {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div
+  > ul {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div
+  > ul
+  > li {
+  width: 216px;
+  height: 35px;
+  text-align: right;
+  margin: 1px 0;
+  padding-right: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div
+  > ul
+  > li:hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: #62666d;
+  padding-top: 10px;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(7)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(7):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(11)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(11):hover
+  > a
+  > p {
+  color: red;
+}
+/**/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(7)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(7):hover
+  > a
+  > p {
+  color: red;
+}
+/**/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(2)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(2):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(3)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(3):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(9)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(9):hover
+  > a
+  > p {
+  color: red;
+}
+/**/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(8)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left07
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(8):hover
+  > a
+  > p {
+  color: red;
+}
+/*ارایشی*/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li:nth-of-type(8):hover
+  > div.left08 {
+  display: block;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08 {
+  width: 900px;
+  height: 600px;
+  margin-right: 200px;
+  position: absolute;
+  right: 1px;
+  margin-bottom: 20px;
+  top: -350px;
+  display: none;
+  background-color: white;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: rgb(5, 197, 197);
+  font-weight: 600;
+  padding-top: 10px;
+  padding-right: 12px;
+  margin-bottom: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > a
+  > p
+  > i {
+  padding-right: 10xp;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div {
+  width: 217px;
+  height: 558px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div
+  > nav {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div
+  > ul {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div
+  > ul
+  > li {
+  width: 216px;
+  height: 35px;
+  text-align: right;
+  margin: 1px 0;
+  padding-right: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div
+  > ul
+  > li:hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(6)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(6):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(11)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(11):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(4)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(4):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(8)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(8):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left08
+  > div
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: #62666d;
+  padding-top: 10px;
+}
+/*کمپینگ*/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li:nth-of-type(9):hover
+  > div.left09 {
+  display: block;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09 {
+  width: 900px;
+  height: 600px;
+  margin-right: 200px;
+  position: absolute;
+  right: 1px;
+  margin-bottom: 20px;
+  top: -400px;
+  display: none;
+  background-color: white;
+  overflow-y: scroll;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: rgb(5, 197, 197);
+  font-weight: 600;
+  padding-top: 10px;
+  padding-right: 12px;
+  margin-bottom: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > a
+  > p
+  > i {
+  padding-right: 10xp;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div {
+  width: 217px;
+  height: 558px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div
+  > nav {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div
+  > ul {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div
+  > ul
+  > li {
+  width: 216px;
+  height: 35px;
+  text-align: right;
+  margin: 1px 0;
+  padding-right: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div
+  > ul
+  > li:hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(2)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(2):hover
+  > a
+  > p {
+  color: red;
+}
+/**/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(2):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(2)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(9):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(9)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(12):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(12)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(13):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(13)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+/**/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(11):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(11)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(12):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(12)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(13):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(13)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+/**/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(2):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(2)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(3):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(3)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(4):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(4)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(5):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(5)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(6):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(6)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(7):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(7)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(8):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(8)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(9):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(9)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(12):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(12)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left09
+  > div
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: #62666d;
+  padding-top: 10px;
+}
+/*ابزار*/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li:nth-of-type(10):hover
+  > div.left10 {
+  display: block;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10 {
+  width: 900px;
+  height: 600px;
+  margin-right: 200px;
+  position: absolute;
+  right: 1px;
+  margin-bottom: 20px;
+  top: -450px;
+  display: none;
+  background-color: white;
+  overflow-y: scroll;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: rgb(5, 197, 197);
+  font-weight: 600;
+  padding-top: 10px;
+  padding-right: 12px;
+  margin-bottom: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > a
+  > p
+  > i {
+  padding-right: 10xp;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div {
+  width: 217px;
+  height: 558px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div
+  > nav {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div
+  > ul {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div
+  > ul
+  > li {
+  width: 216px;
+  height: 35px;
+  text-align: right;
+  margin: 1px 0;
+  padding-right: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div
+  > ul
+  > li:hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(4)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(4):hover
+  > a
+  > p {
+  color: red;
+}
+/**/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(7)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(7):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(13)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(13):hover
+  > a
+  > p {
+  color: red;
+}
+/**/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+/**/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left10
+  > div
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: #62666d;
+  padding-top: 10px;
+}
+/*خودرو*/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li:nth-of-type(11):hover
+  > div.left11 {
+  display: block;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11 {
+  width: 900px;
+  height: 600px;
+  margin-right: 200px;
+  position: absolute;
+  right: 1px;
+  margin-bottom: 20px;
+  top: -500px;
+  display: none;
+  background-color: white;
+  overflow-y: scroll;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: rgb(5, 197, 197);
+  font-weight: 600;
+  padding-top: 10px;
+  padding-right: 12px;
+  margin-bottom: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > a
+  > p
+  > i {
+  padding-right: 10xp;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div {
+  width: 217px;
+  height: 558px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div
+  > nav {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div
+  > ul {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div
+  > ul
+  > li {
+  width: 216px;
+  height: 35px;
+  text-align: right;
+  margin: 1px 0;
+  padding-right: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div
+  > ul
+  > li:hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(4)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(4):hover
+  > a
+  > p {
+  color: red;
+}
+/**/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+/**/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(4)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(2):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(3)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(3):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left11
+  > div
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: #62666d;
+  padding-top: 10px;
+}
+/*محلی*/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li:nth-of-type(12):hover
+  > div.left12 {
+  display: block;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12 {
+  width: 900px;
+  height: 600px;
+  margin-right: 200px;
+  position: absolute;
+  right: 1px;
+  margin-bottom: 20px;
+  top: -550px;
+  display: none;
+  background-color: white;
+  overflow-y: scroll;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: rgb(5, 197, 197);
+  font-weight: 600;
+  padding-top: 10px;
+  padding-right: 12px;
+  margin-bottom: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > a
+  > p
+  > i {
+  padding-right: 10xp;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div {
+  width: 217px;
+  height: 558px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div
+  > nav {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div
+  > ul {
+  width: 216px;
+  height: 900px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div
+  > ul
+  > li {
+  width: 216px;
+  height: 35px;
+  text-align: right;
+  margin: 1px 0;
+  padding-right: 10px;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div
+  > ul
+  > li:hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(2)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(2):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(3)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(3):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(4)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(4):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(14)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(14):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(18)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(1)
+  > ul
+  > li:nth-of-type(18):hover
+  > a
+  > p {
+  color: red;
+}
+/**/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(11)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(11):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(12)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(12):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(15)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(2)
+  > ul
+  > li:nth-of-type(15):hover
+  > a
+  > p {
+  color: red;
+}
+/**/
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(4)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(4):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(7)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(7):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(10)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(10):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(11)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(3)
+  > ul
+  > li:nth-of-type(11):hover
+  > a
+  > p {
+  color: red;
+}
+/**/
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(1):hover
+  > a
+  > p {
+  color: red;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(2)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(2):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(3)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(3):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(5)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(5):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(8)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(8):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(11)
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div:nth-of-type(4)
+  > ul
+  > li:nth-of-type(11):hover
+  > a
+  > p {
+  color: red;
+}
+div.wrapper
+  > div.menu
+  > div:nth-of-type(2)
+  > div.menuu
+  > div
+  > div.right
+  > nav
+  > ul
+  > li
+  > div.left12
+  > div
+  > ul
+  > li
+  > a
+  > p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  color: #62666d;
+  padding-top: 10px;
+}
+/*باکس کنار زیر منو*/
